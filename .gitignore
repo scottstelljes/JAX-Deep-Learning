@@ -218,3 +218,20 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# PyCharm / IntelliJ
+.idea/
+*.iml
+
+# PyCharm local history and workspace files
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/shelf/
+
+# JetBrains cache files
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+
